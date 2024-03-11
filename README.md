@@ -18,3 +18,10 @@ Please run the main method in the ChatBot.java .
 
 
 If you have any questions, you can shoot me an email - swarit01@gmail.com or drop a text/phone call @ 510-589-5041
+
+Preprocessing:
+
+
+Application:
+
+<img width="1218" alt="Screen Shot 2024-03-11 at 1 57 02 PM" src="https://github.com/swarit01/Prophet-Chatbot/assets/15681349/778a9de9-a7e2-4f91-be7f-51bd9869ab1b">
