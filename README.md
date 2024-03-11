@@ -1,7 +1,12 @@
 # Prophet-Chatbot
 Prophet Team!
 
-Hope this chatbot finds you well. To run this code, please have a Docker instance of ChromaDB running on port 8000.
+Hope this chatbot finds you well. 
+
+This program uses a hugging face data set, OpenAI's text-embeddings-002 for vectorization, ChromaDB for persistence, and gpt-3.5-turbo as an LLM.
+
+
+To run this code, please have a Docker instance of ChromaDB running on port 8000.
 
 **Prerequisites**:
 
