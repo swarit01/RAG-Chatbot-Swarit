@@ -10,3 +10,6 @@ You'll need to create the collection, and then provide that collectionID to Chro
 ** To Run the Chatbot (Raj):**
 
 Please run the main method in the ChatBot.java class. 
+
+
+If you have any questions, you can shoot me an email - swarit01@gmail.com or drop a text/phone call @ 510-589-5041
