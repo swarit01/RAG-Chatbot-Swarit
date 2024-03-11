@@ -7,5 +7,6 @@ Hope this chatbot finds you well. To run this code, please have a Docker instanc
 
 You'll need to create the collection, and then provide that collectionID to ChromaCRUDHelper.java. ChromaCRUDHelper will execute the logic to ingest the dataset of choice (https://huggingface.co/datasets/TaylorAI/pubmed_other), as well as persist that information to Chroma.
 
-**Run the Chatbot (Raj):**
+** To Run the Chatbot (Raj):**
+
 Please run the main method in the ChatBot.java class. 
