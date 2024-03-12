@@ -1,7 +1,7 @@
 # Prophet-Chatbot
 Prophet Team!
 
-Hope this chatbot finds you well. 
+Hope this chatbot finds you well. Here is a demo video for this project: https://drive.google.com/file/d/1IHSfjtHVhFI4dtEEuYoWpDZgP5P7AK_U/view?usp=sharing
 
 This program uses a hugging face data set, OpenAI's text-embeddings-002 for vectorization, ChromaDB for persistence, and gpt-3.5-turbo as an LLM.
 
