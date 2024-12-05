@@ -1,7 +1,7 @@
-# Prophet-Chatbot
-Prophet Team!
+# RAG Based Chatbot (NO LANG CHAIN USED !!) 
 
-Hope this chatbot finds you well. Here is a demo video for this project: https://drive.google.com/file/d/1IHSfjtHVhFI4dtEEuYoWpDZgP5P7AK_U/view?usp=sharing
+
+Hope this chatbot finds you well. 
 
 This program uses a hugging face data set, OpenAI's text-embeddings-002 for vectorization, ChromaDB for persistence, and gpt-3.5-turbo as an LLM.
 
@@ -17,7 +17,6 @@ You'll need to create the collection, and then provide that collectionID to Chro
 Please run the main method in the ChatBot.java . 
 
 
-If you have any questions, you can shoot me an email - swarit01@gmail.com or drop a text/phone call @ 510-589-5041
 
 Preprocessing/Ingestion:
 
